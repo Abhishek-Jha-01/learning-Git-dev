@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// add to number
+// add two number
 
 int main(void)
 {
